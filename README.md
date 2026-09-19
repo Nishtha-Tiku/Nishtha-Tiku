@@ -15,6 +15,7 @@ Featured projects
 RAG Support Assistant: hybrid BM25 and vector search over technical docs, built with Spring Boot, Spring AI and pgvector. (repo link coming)
 LLM Data Mapping Pipeline: turns unstructured invoices and purchase orders into schema-validated JSON. (repo link coming)
 Sagacity-A-HealthBot: BERT-based NLP model behind a Flask API (F1 0.86), with a published research paper.
+
 Find me
 Portfolio:
 LinkedIn: https://www.linkedin.com/in/nishtha-tiku-7778441b4/
